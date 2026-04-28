@@ -4,10 +4,10 @@ import json
 import os
 
 # توکن ربات و آیدی کانال
-TOKEN = ""
-CHANNEL_ID = ""
-ADMIN_ID = 
-ADMIN_USERNAME = ""
+TOKEN = "bot_token"
+CHANNEL_ID = "@danialmohammadi8"
+ADMIN_ID = 123456789
+ADMIN_USERNAME = "@danial_M1"
 
 # لیست سفید دوره‌های معتبر
 VALID_COURSE_IDS = ["course1", "course2", "course3"]
