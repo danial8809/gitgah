@@ -1,0 +1,50 @@
+{
+    "course1": {
+        "name": "دوره ساخت ربات تلگرامی 🤖",
+        "price": "690,000 تومان",
+        "videos": [
+            {
+                "file_id": "BAACAgQAAxkBAAIg-micPIe5cDFtE32nVpMnzPfUQbg5AAJtGgACqfLhUB5ODTqLl8QfNgQ",
+                "caption": "iudsvo",
+                "order": 1
+            },
+            {
+                "file_id": "BAACAgQAAxkBAAIg-micPIe5cDFtE32nVpMnzPfUQbg5AAJtGgACqfLhUB5ODTqLl8QfNgQ",
+                "caption": "سلام مهندس",
+                "order": 2
+            }
+        ]
+    },
+    "course2": {
+        "name": "دوره طراحی سایت 👨‍💻",
+        "price": "بزودی...",
+        "videos": [
+            {
+                "file_id": "video3.mp4",
+                "caption": null,
+                "order": 1
+            },
+            {
+                "file_id": "video4.mp4",
+                "caption": null,
+                "order": 2
+            }
+        ]
+    },
+    "course3": {
+        "name": "دوره ساخت اپلیکیشن 📱",
+        "price": "بزودی...",
+        "videos": [
+            {
+                "file_id": "video5.mp4",
+                "caption": null,
+                "order": 1
+            },
+            {
+                "file_id": "video6.mp4",
+                "caption": null,
+                "order": 2
+            }
+        ]
+    }
+}
