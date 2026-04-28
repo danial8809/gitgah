@@ -4,10 +4,10 @@ import json
 import os
 
 # توکن ربات و آیدی کانال
-TOKEN = "7266317799:AAE8puaSkbGxfLRpTmQR7wpEFetoLO_g9cI"
-CHANNEL_ID = "@erabdollahi"
-ADMIN_ID = 6383182342
-ADMIN_USERNAME = "@erfanabd_admin"
+TOKEN = ""
+CHANNEL_ID = ""
+ADMIN_ID = 
+ADMIN_USERNAME = ""
 
 # لیست سفید دوره‌های معتبر
 VALID_COURSE_IDS = ["course1", "course2", "course3"]
